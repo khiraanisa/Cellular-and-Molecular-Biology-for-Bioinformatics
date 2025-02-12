@@ -1,1 +1,2 @@
-# Cellular-and-Molecular-Biology-for-Bioinformatics
+## SEBB4173 ASSIGNMENTS 🧬
+A crucial subject that provides the biological foundation necessary for computational approaches in bioinformatics. It focuses on understanding the structure and function of cells, biomolecules, and genetic material, which are essential for analyzing biological data. The subject covers fundamental topics such as cell structure, organelles, and biological macromolecules, including DNA, RNA, and proteins. It explores molecular mechanisms like DNA replication, transcription, and translation, which are central to genetic information flow. Additionally, topics like gene expression regulation, epigenetics, and protein interactions are vital for understanding complex biological systems 🥼
